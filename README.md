@@ -26,6 +26,9 @@ Currently learning fullstack tech.
 ### 🖌️ Styling
   ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor%2338B2AC)
 
+### ✨ Framework Web
+  ![Node.js](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 
 ### 🎁 Package Manager
  ![NPM](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=%23cd3e3d)
