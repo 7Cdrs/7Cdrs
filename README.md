@@ -37,6 +37,7 @@ Currently learning fullstack tech.
   ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=%23f25425)
 
 
+---
 
 
 [![](https://visitcount.itsvg.in/api?id=Hazel368&icon=0&color=0)](https://visitcount.itsvg.in)
