@@ -26,6 +26,16 @@ Currently learning fullstack tech.
 ### 🖌️ Styling
   ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor%2338B2AC)
 
+
+### 🎁 Package Manager
+ ![NPM](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=%23cd3e3d)
+  
+### 🏜️ Design
+  ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=%23f25425)
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=Hazel368&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
