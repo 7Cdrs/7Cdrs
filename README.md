@@ -18,10 +18,14 @@ Currently learning fullstack tech.
 </p>
 
 
+💻 Tech Stack:
+### ♨️ Program Language
+  ![HTML](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23e95d2a) ![C](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=c&logoColor=%236a9dd3)  ![Javascript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23fff000)
+ ![PHP](https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=%237377ad)
 
-
+### 🖌️ Styling
+  ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor%2338B2AC)
 
 [![](https://visitcount.itsvg.in/api?id=Hazel368&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
