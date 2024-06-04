@@ -37,6 +37,11 @@ Currently learning fullstack tech.
   ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=%23f25425)
 
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hazel368&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 ---
 
 
