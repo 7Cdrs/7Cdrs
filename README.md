@@ -11,9 +11,9 @@ Currently learning fullstack tech.
 ### ⚡ Recent Activity
 
 <p align="left">
-  <a href="https://github.com/Hazel368">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hazel368&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazel368&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+  <a href="https://github.com/7Cdrs">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=7Cdrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Cdrs&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </a>
 </p>
 
@@ -38,13 +38,13 @@ Currently learning fullstack tech.
 
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hazel368&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=7Cdrs&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
 
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=Hazel368&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=7Cdrs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
