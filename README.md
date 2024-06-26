@@ -12,7 +12,7 @@ Currently learning fullstack tech.
 
 <p align="left">
   <a href="https://github.com/7Cdrs">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=7Cdrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=7Cdrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Cdrs&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </a>
 </p>
