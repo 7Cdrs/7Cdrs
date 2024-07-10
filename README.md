@@ -2,7 +2,7 @@
 Hi there I am Hazel 👋
 
 A coder, Informatics Engineering Student @ [EEPIS](https://www.pens.ac.id/).<br> 
-Interested in Backend, mobile, and cloud technology.<br>
+Interested in Backend, data, and cloud technology.<br>
 Currently learning fullstack tech.
 
 - 🌱 Lifelong Learner
