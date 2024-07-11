@@ -30,7 +30,8 @@ Currently learning fullstack tech.
 ### ✨ Framework Tech
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![React.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=reactdotjs&logoColor=white)
+  ![React.js](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 
 
 ### 🎁 Package Manager
