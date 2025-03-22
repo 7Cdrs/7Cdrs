@@ -22,14 +22,13 @@ Currently learning fullstack tech.
 ### ♨️ Program Language
 ![C](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=c&logoColor=%236a9dd3)  ![Javascript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23fff000)
  ![PHP](https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=%237377ad)
- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+ ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🖌️ Styling
   ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor%2338B2AC)
 
 ### ✨ Framework Tech
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![React.js](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 
